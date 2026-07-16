@@ -10,6 +10,10 @@
 <a href="https://nebusec.ai/buglist">Bug list (885+)</a>
 </p>
 
+## Build
+
+See **[BUILD.md](BUILD.md)** for compilation instructions, prerequisites, and supported device targets.
+
 ## Latest research
 
 - **IonStack part II**: GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years<br>
