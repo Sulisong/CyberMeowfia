@@ -1,0 +1,8 @@
+ffffffe1a5800000 T _text
+ffffffe1a5810000 T _stext
+ffffffe1a78d21b8 d loggers
+ffffffe1a78de280 D init_task
+ffffffe1a78f0548 D init_cred
+ffffffe1a796c5c8 D modprobe_path
+ffffffe1a7ad4580 B root_task_group
+ffffffe1a7b36f58 b sysctl_bootid
